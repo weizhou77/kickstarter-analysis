@@ -16,8 +16,18 @@ A possible challenge will be putting wrong elements or field name into wrong box
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+For the theater category, one conclusion would be that the month of May, June and July have the most theater category campaigns and these three months have the highest successful percentage which are 66.87%,65.36% and 62.04%. The reason for this could be that it's summer break time. Another conclusion would be December has the least theater campaigns and lowest successful percentage which is 49.33%.
+
+
 - What can you conclude about the Outcomes based on Goals?
+
+A conclusion for the Outcomes based on Goals would be if the goal amount is over $45000, the campaign outcomes are mostlikely failed. Louis's goal is $10000, so her successful percentage would be 54.17%.
+
 
 - What are some limitations of this dataset?
 
+
+
+
 - What are some other possible tables and/or graphs that we could create?
+Since we are doing charts about percentages, we can use a pie chart to show the outcomes for the "play" subcategory based on goal amounts.
