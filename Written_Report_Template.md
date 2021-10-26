@@ -31,4 +31,5 @@ A conclusion for the Outcomes based on Goals would be if the goal amount is over
 
 
 - What are some other possible tables and/or graphs that we could create?
+
 Since we are doing charts about percentages, we can use a pie chart to show the outcomes for the "play" subcategory based on goal amounts.
