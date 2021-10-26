@@ -1,17 +1,17 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louis was planning to do a crowdfunding campaign for her play Fever. It's her first time doing a project campaign so she turned to me. We were going to help her by using Excel to organize, sort and analyze all the project campaigns to determine if there were any specific factors that make a campaign successful. We would use this to help Louis to create a successful project campaign plan.
+
 ### Purpose
-The purpose of this project is to organize, sort and analyze some project campaigns datas to see if there are any specific factors that make a campaign successful and use those factors to help Louis to create a successful project campaign plan.
+Louis was planning to do a crowdfunding campaign for her play Fever. It's her first time doing a project campaign so she turned to me. We were going to help her by using Excel to organize, sort and analyze all the project campaigns to determine if there were any specific factors that make a campaign successful. We would use this to help Louis to create a successful project campaign plan.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+We use pivot table and graphing to visusalize the campaign outcomes based on launch date for Theator Category. On the visual graph, the Y axis represents the counts and x axis represents the campaign launch months; there are three lines and each represents "successful", "failed" and "canceled" outcomes. 
 ### Analysis of Outcomes Based on Goals
-
+We use visual graph to show the percentage of successful, failed and canceled outcomes for the subcategory "play" based on the funding goal amount. On the graph, the y-axis represents the percentage number and x-axis represents the goal amount; there are three lines on the graph and ecach represents the "successful", "failed" and "canceled" outcome.
 ### Challenges and Difficulties Encountered
-
+A possible challenge will be putting wrong elements or field name into wrong box on the pivot table fields. A possible solution for the challenge will be creating a graph for the table to check if the graph is readable and reasonable.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
