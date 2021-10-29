@@ -10,6 +10,7 @@ Louis was planning to do a crowdfunding campaign for her play Fever. It's her fi
 We use pivot table and graphing to visusalize the campaign outcomes based on launch date for Theator Category. On the visual graph, the Y axis represents the counts and x axis represents the campaign launch months; there are three lines and each represents "successful", "failed" and "canceled" outcomes. 
 ### Analysis of Outcomes Based on Goals
 We use visual graph to show the percentage of successful, failed and canceled outcomes for the subcategory "play" based on the funding goal amount. On the graph, the y-axis represents the percentage number and x-axis represents the goal amount; there are three lines on the graph and ecach represents the "successful", "failed" and "canceled" outcome.
+
 ### Challenges and Difficulties Encountered
 A possible challenge will be putting wrong elements or field name into wrong box on the pivot table fields. A possible solution for the challenge will be creating a graph for the table to check if the graph is readable and reasonable.
 ## Results
@@ -26,7 +27,7 @@ A conclusion for the Outcomes based on Goals would be if the goal amount is over
 
 - What are some limitations of this dataset?
 
-
+Some limitation of this dataset could be if there are some unexpected event going on in that campaign country such as like the pandamic we are experiencing now which will affect the campaign result by forcing the campaign to be canceled. We might be able to use this element to remove some outliers. 
 
 
 
